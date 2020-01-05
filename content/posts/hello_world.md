@@ -2,7 +2,7 @@
 title: "Hello World!"
 date: 2020-01-05T16:50:04Z
 description: A small python script to say Hello! to our wonderful Solar System
-draft: true
+draft: false
 ---
 
 A small python script to say Hello! to our wonderful Solar System
